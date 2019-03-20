@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="download">
+    <output-path>$PROJECT_DIR$/out/artifacts/download</output-path>
+    <root id="archive" name="download.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/gateway" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/repository" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/controllers" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/customer" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/http" />
+    </root>
+  </artifact>
+</component>
